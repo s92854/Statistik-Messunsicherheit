@@ -25,8 +25,17 @@ y = f(x) = 127,35x - 135
 
 ## Korrelation
 Wenn R<sup>2</sup> < 0, dann negative Korrelation > mit größer werdenem x wird y kleiner
-Korrelations
+Korrelationskoeffizient r
 streng genommen müssen beide Skalen rational skaliert sein, um statistissch korrekt zu sein
+* Maß für die Stärke des Zusammenhangs zwischen zwei Variablen (Art, weil + oder #), (Stärke, weil näher an 0 oder nicht)
+* metrisches Skalenniveau erforderlich
+* r nimmt die Werte -1 bis 1 an
+### Vorschlag für die Aussagekraft der Korrelationskoeffeizienten
+* 0 - unter 0,4: kein Zusammenhang erkennbar
+* 0,4 bis unter 0,6: schwacher Zusammenhang erkennbar
+* 0,6 bis unter 0,8 deutlicher Zusammenhang ablesbar
+* 0,8 bis unter 1: starker Zusammenhang feststellbar
+* 1: perfekter Zusammenhang gegeben
 
 
 
