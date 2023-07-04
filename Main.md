@@ -30,12 +30,25 @@ streng genommen müssen beide Skalen rational skaliert sein, um statistissch kor
 * Maß für die Stärke des Zusammenhangs zwischen zwei Variablen (Art, weil + oder #), (Stärke, weil näher an 0 oder nicht)
 * metrisches Skalenniveau erforderlich
 * r nimmt die Werte -1 bis 1 an
+
 ### Vorschlag für die Aussagekraft der Korrelationskoeffeizienten
 * 0 - unter 0,4: kein Zusammenhang erkennbar
 * 0,4 bis unter 0,6: schwacher Zusammenhang erkennbar
 * 0,6 bis unter 0,8 deutlicher Zusammenhang ablesbar
 * 0,8 bis unter 1: starker Zusammenhang feststellbar
 * 1: perfekter Zusammenhang gegeben
+Je nach Gegebenheiten kann auch bspw. 0,4 einen starken Zusammenhang darstellen
+
+### Berechnungen
+r=(18 * 7896,8 - 529,9 * 232) / √((18 * 19461,3 - (529,9)^2) * (18 * 3455,8 - 232^2)) ≈ 0,7957
+
+Berechnung basiert auf folgenden Formeln und Daten:
+
+![Korrelationsaufgabe_Page1_Image4](https://github.com/s92854/Statistik-Messunsicherheit/assets/134683810/12a3a3a3-f54a-4508-8c5d-8d1714009b14)
+
+![Korrelationsaufgabe_Page1_Image5](https://github.com/s92854/Statistik-Messunsicherheit/assets/134683810/7960dccf-ca60-4a1d-b8c8-4a6d18f2ab8e)
+
+
 
 
 
